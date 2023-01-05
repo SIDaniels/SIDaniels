@@ -36,4 +36,4 @@ You've reached the repository of an environmental scientist committed to doing h
 
 
 #### Connect: 
-<a href="https://www.linkedin.com/in/sarahidaniels/" alt="Linkedin"><img src="https://github.com/SIDaniels/SIDaniels/blob/main/iconmonstr-linkedin-3.svg"></a>
+<img align="left" alt="LinkedIn" width="56px" src="https://github.com/SIDaniels/SIDaniels/blob/main/iconmonstr-linkedin-3.svg" />
