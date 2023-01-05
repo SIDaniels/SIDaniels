@@ -1,6 +1,9 @@
 ### Welcome! 
 
 You've reached the repository of an environmental scientist committed to doing her part as we embark on the world's climate transition. With a broad array of experiences leading teams in all sectors (i.e., tech, academia, government, non-profit) and even a stint co-founding [a start-up](https://www.crunchbase.com/organization/govrock), Sarah is keenly aware of the great advantages (and limitations) of data in the development of any novel solution. 
+
+#### Sarah's edu/work background includes:
+
 <br />
 #### Sarah uses:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
@@ -14,8 +17,8 @@ You've reached the repository of an environmental scientist committed to doing h
 <br />
 
 #### Ask Sarah about:
-- current (unrelated) work in [econometrics](https://pubmed.ncbi.nlm.nih.gov/36153575/) and [implementation science](https://pubmed.ncbi.nlm.nih.gov/36205470/) or other [previous publications](https://pubmed.ncbi.nlm.nih.gov/?term=sarah%20I.%20Daniels)
 - her consulting with start-ups
+- current (unrelated) work in [econometrics](https://pubmed.ncbi.nlm.nih.gov/36153575/) and [implementation science](https://pubmed.ncbi.nlm.nih.gov/36205470/) or other [previous publications](https://pubmed.ncbi.nlm.nih.gov/?term=sarah%20I.%20Daniels)
 - her small role in [this performance](https://www.facebook.com/paul.s.flores/videos/10156889663253006)
 - virtual [puppet shows](https://www.youtube.com/@frogandtoadpuppetshow8882)
 
