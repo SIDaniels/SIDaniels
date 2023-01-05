@@ -1,6 +1,6 @@
 ### Welcome! 
 
-You've reached the repository of an environmental scientist committed to doing her part as we embark on the world's climate transition. With a broad array of experiences leading teams in all sectors (i.e., tech, academia, government, non-profits), and even a stint co-founding [a start-up](https://www.crunchbase.com/organization/govrock), she is keenly aware of the great advantages (and limitations) of data in the development of any novel solution. 
+You've reached the repository of an environmental scientist committed to doing her part as we embark on the world's climate transition. With a broad array of experiences leading teams in all sectors (i.e., tech, academia, government, non-profit) and even a stint co-founding [a start-up](https://www.crunchbase.com/organization/govrock), Sarah is keenly aware of the great advantages (and limitations) of data in the development of any novel solution. 
 <br />
 #### Sarah uses:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
