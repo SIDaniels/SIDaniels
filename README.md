@@ -14,8 +14,8 @@ You've reached the repository of an environmental scientist committed to doing h
 <br />
 
 #### Ask Sarah about:
-- current work in [econometrics](https://pubmed.ncbi.nlm.nih.gov/36153575/) and [implementation science](https://pubmed.ncbi.nlm.nih.gov/36205470/) or other [previous publications](https://pubmed.ncbi.nlm.nih.gov/?term=sarah%20I.%20Daniels)
-- consulting with start-ups
+- current (unrelated) work in [econometrics](https://pubmed.ncbi.nlm.nih.gov/36153575/) and [implementation science](https://pubmed.ncbi.nlm.nih.gov/36205470/) or other [previous publications](https://pubmed.ncbi.nlm.nih.gov/?term=sarah%20I.%20Daniels)
+- her consulting with start-ups
 - her small role in [this performance](https://www.facebook.com/paul.s.flores/videos/10156889663253006)
 - virtual [puppet shows](https://www.youtube.com/@frogandtoadpuppetshow8882)
 
