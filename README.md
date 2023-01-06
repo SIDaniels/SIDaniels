@@ -3,13 +3,14 @@
 You've reached the repository of an environmental scientist committed to doing her part as we embark on the world's climate transition. With a broad array of experiences leading teams in all sectors (i.e., tech, academia, government, non-profit) and a stint co-founding [a start-up](https://www.crunchbase.com/organization/govrock), Sarah is keenly aware of the great advantages (and limitations) of data in the development of any novel solution. 
 
 #### Trained, Worked, or Volunteered at:
-<div style = "display:flex-box">
+<div style = "display:flex-box"
+     >
 <img align="left" alt="UC Berkeley" width="72px" src="https://github.com/SIDaniels/SIDaniels/blob/main/images/Seal_of_University_of_California%2C_Berkeley.svg" />
 <img align="left" alt="Lawerence Berkeley National Laboratory" width="208px" src="https://github.com/SIDaniels/SIDaniels/blob/main/images/Lawrence_Berkeley_National_Laboratory_logo.svg" /> 
 <img align="left" alt="National Institutes of Health" width="81px" src="https://github.com/SIDaniels/SIDaniels/blob/main/images/NIH_2013_logo_vertical.svg" />
 <img align="left" alt="Veterans Health Affairs" width="81px" src="https://github.com/SIDaniels/SIDaniels/blob/main/images/Seal_of_the_U.S._Department_of_Veterans_Affairs.svg" />
 <img align="left" alt="DataKind" width="156px" src="https://github.com/SIDaniels/SIDaniels/blob/main/images/DK_LOGO_R_ORG.svg" /> 
-
+</div>
 <br />  
 <br />  
 <br />  <br />  
